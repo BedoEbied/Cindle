@@ -1,9 +1,9 @@
 # Cindle
- Your Companion to carry out your favourite interests and activites without needing to existing group of friends, here we do it for you! 
+Your companion to perform out your favorite interests and activities without needing to an extant group of friends, here we do it for you! 
 
 ## Description
- Collaboration Project for Software-Engineering Course at Kafrelsheikh University
- -Course Code : SE301
+Collaboration project for Software-Engineering course at Kafrelsheikh University
+
 
 ## Team
 Yahia Ashraf\
